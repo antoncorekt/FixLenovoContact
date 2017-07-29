@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fix-Contact</string>
+
+    <string name="typeFormat_name">Выбирете формат номера</string>
+    <string-array name="typeFormat_list">
+        <item>+380999813507 слитно</item>
+        <item>+380 99 981 3507 с пробелом</item>
+        <item>+380\\-99\\-981\\-3507 с тире</item>
+    </string-array>
+    <string-array name="typeFormat_values">
+        <item>FORMAT_NOTHING</item>
+        <item>FORMAT_SPACE</item>
+        <item>FORMAT_TIRE</item>
+    </string-array>
+
+
+</resources>
